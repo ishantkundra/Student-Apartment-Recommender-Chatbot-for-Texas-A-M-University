@@ -91,9 +91,9 @@ Ensure cleaned_data.csv exists in the Dataset/ folder before launching the chatb
 	•	Bus route filtering
 	•	Price range control
 	•	Dynamic conversation
-
+</pre>
 ---
-
+<pre>
 🚧 Future Improvements
 	•	🤝 Add fuzzy matching and user slang support
 	•	🌐 Build a web interface using Flask or React
