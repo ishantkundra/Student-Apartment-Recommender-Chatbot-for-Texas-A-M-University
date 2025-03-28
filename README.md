@@ -81,6 +81,7 @@ python Code/chatbot_GUI.py
 
 Ensure cleaned_data.csv exists in the Dataset/ folder before launching the chatbot.
 ```
+```
 ⸻
 
 📈 Evaluation Summary
