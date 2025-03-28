@@ -82,7 +82,7 @@ python Code/chatbot_GUI.py
 Ensure cleaned_data.csv exists in the Dataset/ folder before launching the chatbot.
 ```
 ---
-
+<pre>
 📈 Evaluation Summary
 	•	✅ Tested with 200 TAMU students (including international students)
 	•	👍 Easy to use for new students unfamiliar with housing options
@@ -99,7 +99,7 @@ Ensure cleaned_data.csv exists in the Dataset/ folder before launching the chatb
 	•	🌐 Build a web interface using Flask or React
 	•	📍 Integrate live data from Zillow, Apartments.com, or Google Maps
 	•	🧠 Add user profiles and memory for long-term recommendations
-
+</pre>
 ---
 
 📄 Report
