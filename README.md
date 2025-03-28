@@ -81,8 +81,7 @@ python Code/chatbot_GUI.py
 
 Ensure cleaned_data.csv exists in the Dataset/ folder before launching the chatbot.
 ```
-```
-⸻
+---
 
 📈 Evaluation Summary
 	•	✅ Tested with 200 TAMU students (including international students)
@@ -93,7 +92,7 @@ Ensure cleaned_data.csv exists in the Dataset/ folder before launching the chatb
 	•	Price range control
 	•	Dynamic conversation
 
-⸻
+---
 
 🚧 Future Improvements
 	•	🤝 Add fuzzy matching and user slang support
@@ -101,12 +100,12 @@ Ensure cleaned_data.csv exists in the Dataset/ folder before launching the chatb
 	•	📍 Integrate live data from Zillow, Apartments.com, or Google Maps
 	•	🧠 Add user profiles and memory for long-term recommendations
 
-⸻
+---
 
 📄 Report
 	•	Project Report: Student Dorm Recommender.pdf
 
-⸻
+---
 
 👨‍💻 Authors
 
